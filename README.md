@@ -6,11 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ChethanPS-blue)](https://www.linkedin.com/in/chethanps/)
 [![Email](https://img.shields.io/badge/Email-chethanps31%40gmail.com-blue)](mailto:chethanps31@gmail.com)
 
-## Education
-
-<b> Bachelor of Computer Application:</b>  M.E.S First Grade College , Chikkamagaluru <br>
-<i>August 2023 - Present </i>
-
 ## Skills
 
 <a href="" title="Java" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
@@ -20,3 +15,8 @@
 </a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Git" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="30" height="30"/></a>&nbsp;&nbsp;
+
+## Contact Me
+
+<a href="https://www.linkedin.com/in/chethanps/" title="chethanps" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="mailto:chethanps31@gmail.com" target="_blank" title="vershwal.princi@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
