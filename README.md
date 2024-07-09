@@ -8,8 +8,8 @@
 
 ## Education
 
-Bachelor of Technology: National Institute of Technology Karnataka, Surathkal
-December 2021 - May 2025 (Expected)
+<i> Bachelor of Computer Application:</i> M.E.S.M.P.S First Grade College , Chikkamagaluru <br>
+August 2023 - Present 
 
 ## Skills
 
