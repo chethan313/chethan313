@@ -8,8 +8,8 @@
 
 ## Education
 
-<i> Bachelor of Computer Application:</i> M.E.S.M.P.S First Grade College , Chikkamagaluru <br>
-August 2023 - Present 
+<b> Bachelor of Computer Application:</b>  M.E.S First Grade College , Chikkamagaluru <br>
+<i>August 2023 - Present </i>
 
 ## Skills
 
