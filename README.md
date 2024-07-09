@@ -6,6 +6,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ChethanPS-blue)](https://www.linkedin.com/in/chethanps/)
 [![Email](https://img.shields.io/badge/Email-chethanps31%40gmail.com-blue)](mailto:chethanps31@gmail.com)
 
+## Education
+
+Bachelor of Technology: National Institute of Technology Karnataka, Surathkal
+December 2021 - May 2025 (Expected)
+
 ## Skills
 
 <a href="" title="Java" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
